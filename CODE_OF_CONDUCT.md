@@ -22,7 +22,7 @@ Unacceptable behavior includes:
 
 Project maintainers are responsible for clarifying the standards and are expected to take appropriate and fair corrective action in response to any unacceptable behavior.
 
-Instances of abusive or unacceptable behavior may be reported by contacting the maintainer at **your-email@example.com** (replace with your email).
+Instances of abusive or unacceptable behavior may be reported by contacting the maintainer at absoluteolivia03@gmail.com.
 
 ---
 
